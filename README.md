@@ -1,4 +1,4 @@
-Reach Blog Appliaction for Youtuber - https://www.youtube.com/@VivekPandeyVlogss
+React Blog Appliaction for Youtuber - https://www.youtube.com/@VivekPandeyVlogss
 
 Application deployed on - https://pandeyblog-a3779314d575.herokuapp.com/
 
